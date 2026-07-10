@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://francy568.github.io/jr-asesoria-juridica-colombiana/sitemap.xml
